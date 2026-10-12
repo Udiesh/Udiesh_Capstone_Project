@@ -1,4 +1,4 @@
-# Country Data Pipeline & Analytics
+# End-to-End Country Data Pipeline & Analytics System
 
 An end-to-end Python project that scrapes data for the first 20 countries from [Scrape This Site](https://www.scrapethissite.com/pages/simple/), stores it in SQLite, exposes it through a FastAPI REST API, and generates a CSV export and scatter plot.
 
