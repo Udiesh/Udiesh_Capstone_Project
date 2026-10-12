@@ -48,8 +48,6 @@ git clone https://github.com/Udiesh/Udiesh_Capstone_Project.git
 cd Udiesh_Capstone_Project
 ```
 
-Replace the placeholders with your GitHub repository URL and folder name.
-
 ### 2. Create and activate a virtual environment
 
 **Windows CMD**
